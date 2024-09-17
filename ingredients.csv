@@ -1,0 +1,10 @@
+id,recipe_id,name,amount,unit,main
+1,1,Zemiaky,500,g,True
+2,1,Bryndza,200,g,True
+3,1,Slanina,100,g,False
+4,2,Kyslá kapusta,500,g,True
+5,2,Údené mäso,300,g,True
+6,2,Klobása,200,g,False
+7,3,Múka,500,g,True
+8,3,Mlieko,250,ml,True
+9,3,Lekvár,200,g,False
