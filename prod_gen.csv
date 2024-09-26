@@ -1,0 +1,5 @@
+id,name,annotation,description,category,ingredients,unit,real_unit,amount,producer,brand,image_url
+1,Domáci chlieb,Tradičný kváskový chlieb,Chutný domáci chlieb pečený tradičným spôsobom,Pekáreň a cukráreň,"múka, voda, soľ, kvások",ks,g,500,Pekáreň U Jozefa,Domáce pečivo,https://lunys.sk/wp-content/uploads/2021/04/MR.CHLIEB-KVASKOVY-LANOVY-BEZGLUT.-400G-P.HARMONIA.jpg
+2,Bio jablká,Čerstvé bio jablká,Šťavnaté jablká z ekologického hospodárstva,Ovocie,jablká,kg,kg,1,Eko Sad,Zelené Ovocie,https://lunys.sk/wp-content/uploads/2020/05/Jablka-cervene-Pink-Lady-kal.-75-80-I.Tr_-768x773.jpg
+3,Farmárske mlieko,Čerstvé kravské mlieko,Nepasterizované mlieko priamo z farmy,Mliečne potraviny,mlieko,l,ml,1000,Farma Veselá Krava,Farmárske Dobroty,https://lunys.sk/wp-content/uploads/2021/11/Mlieko-kozie-cerstve-1l-Farma-Bardy-768x769.jpg
+4,Domáca slanina,Tradične údená slanina,Ručne spracovaná a údená slanina,Mäso a ryby,"bravčové mäso, soľ, korenie",kg,g,200,Mäsiarstvo U Petra,Dedinské Pochúťky,https://lunys.sk/wp-content/uploads/2024/05/Slanina-Anglicka-special-blok-200g-LECO.jpg
